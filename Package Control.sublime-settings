@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"3024 Color Scheme",
+		"AngularJS",
+		"Autoprefixer",
+		"Bootstrap 3 Snippets",
+		"Boxy Theme",
+		"Colorsublime",
+		"Dayle Rees Color Schemes",
+		"Emmet",
+		"Git",
+		"Jade",
+		"jQuery",
+		"LESS",
+		"Markdown Preview",
+		"Material Theme",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-php",
+		"Syntax Highlighting for Sass",
+		"Tag",
+		"Theme - Spacegray",
+		"Volt"
+	]
+}
