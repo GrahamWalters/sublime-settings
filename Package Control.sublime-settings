@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"3024 Color Scheme",
+		"Angular 2 Snippets (John Papa)",
 		"AngularJS",
 		"Autoprefixer",
 		"Bootstrap 3 Snippets",
@@ -26,6 +27,7 @@
 		"Syntax Highlighting for Sass",
 		"Tag",
 		"Theme - Spacegray",
+		"TypeScript",
 		"Volt"
 	]
 }
